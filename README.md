@@ -1,2 +1,5 @@
-# pastor-s-scheduler-logo-with-text-inside-circle
-Pastor's Scheduler Logo with Text Inside Circle, made with Bidex (bidex247.com)
+# Pastor's Scheduler Logo with Text Inside Circle
+
+An SVG image: `image.svg`.
+
+Made with [Bidex](https://bidex247.com), the AI assistant you pay for in Naira.
